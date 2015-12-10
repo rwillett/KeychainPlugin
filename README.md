@@ -1,6 +1,8 @@
 Keychain Plugin for Apache Cordova
 =====================================
-created by Shazron Abdullah
+created by Shazron Abdullah - Forked by Rob Willett
+
+THIS FORK IS AN ATTEMPT TO STOP THE KEYCHAIN SYNCING TO iCLOUD>
 
 [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html) except for the SFHFKeychainUtils code that is under **src/ios/SFHFKeychainUtils**
 

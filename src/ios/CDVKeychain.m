@@ -22,6 +22,7 @@
 
 @implementation CDVKeychain
 
+/*
 - (CDVPlugin*) initWithWebView:(UIWebView*)theWebView
 {
     self = (CDVKeychain*)[super initWithWebView:(UIWebView*)theWebView];
@@ -30,6 +31,7 @@
     }
     return self;
 }
+*/
 
 
 - (void) getForKey:(CDVInvokedUrlCommand*)command

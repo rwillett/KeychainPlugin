@@ -1,0 +1,16 @@
+    "version": "1.0.1",
+    "name": "com.rwillett.cordova.plugin.keychainutil",
+    "cordova_name": "Keychain Plugin No ICloudSync",
+    "description": "Uses the keychain biut does NOT Cloudsync",
+    "license": "Apache 2.0",
+    "repo": "https://github.com/rwillett/KeychainPluginNoICloudSync.git",
+    "issue": "hhttps://github.com/rwillett/KeychainPluginNoICloudSync/issues",
+    "keywords": [
+        "cordova",
+        "CloudSync"
+    ],
+    "platforms": [
+        "ios"
+    ],
+    "engines": [],
+    "englishdoc": ""
